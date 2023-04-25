@@ -1,0 +1,9 @@
+Pillow>=6.2.2
+python-socketio==4.6.1
+python-engineio==3.13.2
+numpy
+Flask
+opencv-python==3.4.2.16
+eventlet==0.31.0
+tensorflow==2.4.0
+Keras==2.3.1
